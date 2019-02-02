@@ -7,3 +7,6 @@
 
 スライドはこちらに置いておきます。  
 https://drive.google.com/open?id=1y_pKRu5RXxCK1Q4gceKRCe2Vn3dGOzGX
+
+2018.2.2追記
+スライドをリポジトリにも置いておきました
